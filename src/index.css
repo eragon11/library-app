@@ -1,7 +1,8 @@
 .box{
     display: flex;
     justify-content: space-between;
-    flex-wrap: wrap
+    flex-wrap: wrap;
+    color: black;
 }
 .material-icons{
     font-size: 2.4em;
